@@ -4,14 +4,14 @@ This notebook contains an EDA for a Supermarket between Janaury - March of 2019.
 
 The notebook contains business insights on the following;
 
-Finding relationships most correlated columns
+1. Finding relationships most correlated columns
 
-Finding the most busy city, payment type, branch
+2. Finding the most busy city, payment type, branch
 
-Visualizing a Gender based comparison for different product type
+3. Visualizing a Gender based comparison for different product type
 
-Visualizing a City based comparison for different product type
+4. Visualizing a City based comparison for different product type
 
-Finding which payment method is used more often at a particular city, branch and for which product type
+5. Finding which payment method is used more often at a particular city, branch and for which product type
 
-Finding which branch has a better sale for which product
+6. Finding which branch has a better sale for which product
