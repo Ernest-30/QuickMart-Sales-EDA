@@ -14,4 +14,4 @@ The notebook contains business insights on the following;
 
 5. Finding which payment method is used more often at a particular city, branch and for which product type
 
-6. Finding which branch has a better sale for which product
+6. Finding which branch has better sales for which product
