@@ -23,3 +23,7 @@ In this EDA project, we will delve into the world of QuickMart sales data betwee
 • **Customer Loyalty:** Do certain customer types tend to generate more sales, and are they more satisfied with their shopping experience?
 
 • **City Comparison:** Are there significant differences in Quantity sold, customer ratings, or product preferences between cities??
+
+
+
+Click [HERE](https://github.com/Ernest-30/QuickMart-Sales-EDA/blob/main/QuickMart%20EDA%20.ipynb) to view the analysis.
