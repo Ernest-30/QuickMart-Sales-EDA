@@ -25,5 +25,5 @@ In this EDA project, we will delve into the world of QuickMart sales data betwee
 • **City Comparison:** Are there significant differences in Quantity sold, customer ratings, or product preferences between cities??
 
 
-
+## Analysis
 Click [HERE](https://github.com/Ernest-30/QuickMart-Sales-EDA/blob/main/QuickMart%20EDA%20.ipynb) to view the analysis.
